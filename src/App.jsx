@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API_URL = "https://tp4-nodejs-rest-api-cvs8.vercel.app";
+const API_URL = "https://node-js-tp4.vercel.app/";
 
 function App() {
   const [isLoginView, setIsLoginView] = useState(true);
